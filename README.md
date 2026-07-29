@@ -72,7 +72,8 @@ for the trend charts and filters to look realistic.
 ### 5. Run the dashboard
 ```bash
 streamlit run app.py
-```
+```<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/7a139ddb-8e66-44c7-aafd-c7aab36acf77" />
+
 Open the URL Streamlit prints (usually http://localhost:8501).
 
 ### 6. (Optional) Run the automated report
