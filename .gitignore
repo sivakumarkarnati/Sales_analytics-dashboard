@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated reports
+reports/
+
+# Docker
+db_data/
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/
