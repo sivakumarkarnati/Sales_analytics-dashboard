@@ -3,6 +3,7 @@
 An interactive Streamlit dashboard for visualizing sales KPIs, backed by a
 MySQL database, with Plotly charts and an automated weekly reporting script.
 
+![Dashboard Screenshot](dashboard-screenshot.png)
 ## Stack
 Python · Streamlit · Pandas · Plotly · MySQL
 
